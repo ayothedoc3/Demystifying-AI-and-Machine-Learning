@@ -3,11 +3,11 @@
 ## 📑 Contents
 
 ### 1. Slides
-- [Keynote / Talk Slides](slides/)  
+- [Keynote / Talk Slides]  
   Covers the main presentation content. Both **PowerPoint** (`.pptx`) and **PDF** versions are included.
 
 ### 2. Notebooks
-- [Demo Code](notebooks/)  
+- [Demo Code]  
   Hands-on Jupyter notebooks used during the talk. They include examples, experiments, and reproducible steps.
 
 ### 3. Resources
