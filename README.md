@@ -52,7 +52,3 @@ LinkedIn: linkedin.com/in/ayothedoc
 Twitter: @ayothedoc
 
 ⭐ If you found this useful, don’t forget to star the repo!
-
----
-
-Do you want me to add **badges** at the top (like “Open in Colab” or “Launch Binder”) so people can instantly run your notebooks without installing anything? That’s usually a nice touch for conference repos.
