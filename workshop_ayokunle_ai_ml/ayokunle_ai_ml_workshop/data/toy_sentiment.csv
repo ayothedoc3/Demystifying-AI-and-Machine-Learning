@@ -1,0 +1,11 @@
+text,label
+"I love this product, it works perfectly",pos
+"Terrible experience, I want a refund",neg
+"Pretty good overall, not amazing but solid",pos
+"Awful, totally disappointing",neg
+Excellent quality and great support,pos
+"Bad, slow, and buggy",neg
+Happy with the results,pos
+"Not good, not recommended",neg
+This is fantastic,pos
+It fails often and wastes time,neg
